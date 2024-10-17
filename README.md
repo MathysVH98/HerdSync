@@ -42,9 +42,7 @@ Integrated with Google Maps using a valid API key for geocoding and map services
 Users can click the Features button on the homepage to get a complete list of the application's features and understand its capabilities.
 
 Installation:
-1. Clone the repository:
-git clone https://github.com/yourusername/HerdSync.git
-cd HerdSync
+1. Clone the repository
 
 2. Requirements:
 .NET Framework 4.8 or later
